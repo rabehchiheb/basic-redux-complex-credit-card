@@ -1,0 +1,57 @@
+.App {
+  text-align: left;
+  display: flex;
+}
+.App-payment {
+  padding: 30px;
+  display: block;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.divimgdiv {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+.divimg {
+background-image: url("./images/slate_card.png");
+background-size: cover;
+background-repeat: no-repeat;
+margin-top: 50px;
+margin-left: 50px;
+width: 400px;
+height: 250px;
+color: white;
+border-radius: 20px;
+
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
