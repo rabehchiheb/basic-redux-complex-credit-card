@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/basic-redux-complex-credit-card/./static/css/main.254e1529.chunk.css",
+    "main.js": "/basic-redux-complex-credit-card/./static/js/main.674e6adc.chunk.js",
+    "main.js.map": "/basic-redux-complex-credit-card/./static/js/main.674e6adc.chunk.js.map",
+    "runtime~main.js": "/basic-redux-complex-credit-card/./static/js/runtime~main.1a991497.js",
+    "runtime~main.js.map": "/basic-redux-complex-credit-card/./static/js/runtime~main.1a991497.js.map",
+    "static/js/2.d8720ea2.chunk.js": "/basic-redux-complex-credit-card/./static/js/2.d8720ea2.chunk.js",
+    "static/js/2.d8720ea2.chunk.js.map": "/basic-redux-complex-credit-card/./static/js/2.d8720ea2.chunk.js.map",
+    "index.html": "/basic-redux-complex-credit-card/./index.html",
+    "precache-manifest.1e7ef79464ab6ca42de4bb321f98d580.js": "/basic-redux-complex-credit-card/./precache-manifest.1e7ef79464ab6ca42de4bb321f98d580.js",
+    "service-worker.js": "/basic-redux-complex-credit-card/./service-worker.js",
+    "static/css/main.254e1529.chunk.css.map": "/basic-redux-complex-credit-card/./static/css/main.254e1529.chunk.css.map",
+    "static/media/App.css": "/basic-redux-complex-credit-card/./static/media/slate_card.5f7f1307.png"
+  }
+}
